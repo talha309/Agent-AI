@@ -1,0 +1,55 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "Buy groceries",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Finish homework",
+        "completed": false
+      },
+      {
+        "id": 3,
+        "title": "Call mom",
+        "completed": true
+      },
+      {
+        "id": 4,
+        "title": "Clean the house",
+        "completed": false
+      },
+      {
+        "id": 5,
+        "title": "Go for a walk",
+        "completed": true
+      },
+      {
+        "id": 6,
+        "title": "Read a book",
+        "completed": false
+      },
+      {
+        "id": 7,
+        "title": "Work on project",
+        "completed": false
+      },
+      {
+        "id": 8,
+        "title": "Reply to emails",
+        "completed": true
+      },
+      {
+        "id": 9,
+        "title": "Plan weekend trip",
+        "completed": false
+      },
+      {
+        "id": 10,
+        "title": "Attend team meeting",
+        "completed": true
+      }
+    ]
+  }
+  
